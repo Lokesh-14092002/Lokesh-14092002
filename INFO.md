@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lokesh-14092002
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning Computer Science & Emgimneering.
+- 🌱 I’m currently learning Computer Science & Engineering.
 - 💞️ I’m looking to collaborate on Web Developing.
 
 
