@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lokesh-14092002
-- 👀 I’m interested in Web Development.
+- 👀 I’m interested in Web Development (Fornt-End Web Development).
 - 🌱 I’m currently learning Computer Science & Engineering.
 - 💞️ I’m looking to collaborate on Web Developing.
 
