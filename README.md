@@ -13,10 +13,11 @@
   
 
 # 📊 GitHub Stats:
+<p align="center">
 ![](https://github-readme-stats.vercel.app/api?username=Lokesh-14092002&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Lokesh-14092002&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lokesh-14092002&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
+</p>
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Lokesh-14092002&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
