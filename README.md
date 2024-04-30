@@ -1,9 +1,6 @@
-<p align="center"><a href="[https://.github.io](https://github.com/Lokesh-14092002)"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
-
-<br />
 
 # 💫 About Me:
-🔭 I’m recently graduated from Computer  Science and Engineering<br>👯 I’m looking to collaborate on Web Designing, UI/UX Designing, and Front End Development<br>🌱 I’m currently learning Python <br>
+👋 Hi, I’m Lokesh Rahangdale <br> 🔭 I’m recently graduated from Computer  Science and Engineering<br>👯 I’m looking to collaborate on Web Designing, UI/UX Designing, and Front End Development<br>🌱 I’m currently learning Python <br>
 
 
 ## 🌐 Socials:
