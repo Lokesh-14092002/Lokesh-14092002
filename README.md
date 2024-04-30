@@ -22,9 +22,9 @@
 
 ## <img src="https://media1.giphy.com/media/Q8PQ1KuarrYucCMVTJ/giphy.gif?cid=ecf05e47odgm8bs8cmb8cf1ijmfzqaeeu9fzmx6nbcv06ky2&rid=giphy.gif" width="30">  Projects
 <ul>			
-	<li><i><a href="https://github.com/Lokesh-14092002/email_alert_app.git">Email Alert Application</a></i>:<ul><li>n this era of hectic schedules and constant work pressure, it is very difficult for anyone to keep up with and track regarding everything. The human mind may not be able to retain information for a very long time and may be replaced with more important work and information, which can result in some losses that may befinancial or educational. Missing crucial emails, such as job notifications, company emails, and college mail, which may contain deadlines, critical messages, and essential information, is one of the concern.
+	<li><i><a href="https://github.com/Lokesh-14092002/email_alert_app.git">Email Alert Application</a></i>:<ul><li>In this era of hectic schedules and constant work pressure, it is very difficult for anyone to keep up with and track regarding everything. The human mind may not be able to retain information for a very long time and may be replaced with more important work and information, which can result in some losses that may befinancial or educational. Missing crucial emails, such as job notifications, company emails, and college mail, which may contain deadlines, critical messages, and essential information, is one of the concern.</li>
 
-Real-Time Alerts: Get alerted in real-time when important emails arrive, allowing you to respond promptly and stay on top of time-sensitive matters.
+<li>Real-Time Alerts: Get alerted in real-time when important emails arrive, allowing you to respond promptly and stay on top of time-sensitive matters.
 Efficient Communication: Seamless Integration: Connect your email accounts to create a unified communication experience, reducing the need to switch between multiple platforms.
 Timely Response: Priority Handling: Focus on emails that trigger alerts, ensuring quick responses to urgent matters and preventing critical emails from getting buried.
 Personalized Updates: Targeted Alerts: Tailor your notifications based on sender importance or email content, ensuring that only relevant emails trigger app notifications.
